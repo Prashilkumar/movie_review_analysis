@@ -45,7 +45,7 @@ This project demonstrates a complete **NLP pipeline** using deep learning to per
 - Loss Function: Binary Crossentropy
 - Evaluation Metric: Accuracy
 
-> 🔐 Saved model in `.keras` format (`best_model.keras`) using `ModelCheckpoint`.
+> 🔐 Saved model in `.h5` format (`best_model.h5`) using `ModelCheckpoint`.
 
 ---
 
