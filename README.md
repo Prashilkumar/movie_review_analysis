@@ -86,4 +86,4 @@ This project demonstrates a complete **NLP pipeline** using deep learning to per
    pip install -r requirements.txt
 3. **Run the app**
    ```bash
-   streamlit run app.py
+   streamlit run main.py
