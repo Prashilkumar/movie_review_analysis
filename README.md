@@ -81,3 +81,9 @@ This project demonstrates a complete **NLP pipeline** using deep learning to per
    ```bash
    git clone https://github.com/Prashilkumar/movie_review_analysis.git
    cd movie_review_analysis
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+3. **Run the app**
+   ```bash
+   streamlit run app.py
