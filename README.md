@@ -70,8 +70,8 @@ This project demonstrates a complete **NLP pipeline** using deep learning to per
 
 ## 🔗 Live Demo and Code
 
-- 🚀 **Live App**: [Streamlit Cloud Demo](https://your-live-app-link.streamlit.app)
-- 📂 **Source Code**: [GitHub Repository](https://github.com/Prashilkumar/movie_review_analysis.git)
+- 🚀 **Live App**: [Streamlit Cloud Demo](https://tinyurl.com/5h96fr5a)
+- 📂 **Source Code**: [GitHub Repository](https://tinyurl.com/44a4tte7)
 
 ---
 
